@@ -1,0 +1,23 @@
+.game-over {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .game-over-title {
+    font-size: 36px;
+    color: #ff0000;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin-bottom: 20px;
+  }
+  
+  .restart-button {
+    background-color: #0000ff;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
