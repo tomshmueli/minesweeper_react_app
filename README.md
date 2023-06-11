@@ -1,3 +1,9 @@
+Simple Mineweeper game built with react app.
+1.Before starting please run the command: npm install
+2.npm start
+enjoy!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
